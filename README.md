@@ -45,7 +45,7 @@
   ![Imagine WhatsApp 2024-11-06 la 00 09 08_5c36632d](https://github.com/StefanAdrian2003/Teme-Robotica/blob/main/Tema2/media/4.jpg)
 
   # Video cu funcționalitatea montajului fizic
-  [Watch the demo video](https://github.com/StefanAdrian2003/Teme-Robotica/blob/main/Tema2/media/Clip%20video%20WhatsApp%202024-11-06%20la%2000.09.25_5db6268c.mp4)
+  [Watch the demo video]()
 
   # Schema electrică
   ![image](https://github.com/user-attachments/assets/63aef517-2f51-4c86-b28e-1833cfb0421c)
