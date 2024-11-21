@@ -144,5 +144,11 @@ Urmează să fie realizată o schemă electrică detaliată utilizând Fritzing 
 Proiectul "Quick Time" este un joc de reflexe care testează viteza de reacție a jucătorilor și include multiple componente hardware pentru funcționalități interactive. Acesta reprezintă o oportunitate excelentă de a lucra cu comunicarea SPI între două plăci Arduino și de a integra mai multe module într-un singur sistem.
 
 
+  # Video cu funcționalitatea montajului fizic
+  [Watch the demo video](https://github.com/StefanAdrian2003/Teme-Robotica/blob/main/Tema%203/media/Clip%20video%20WhatsApp%202024-11-21%20la%2022.10.01_f74493dd.mp4)
+  
+  # Schema electrică
+  ![image](https://github.com/StefanAdrian2003/Teme-Robotica/blob/main/Tema%203/media/Imagine%20WhatsApp%202024-11-21%20la%2022.11.42_3cfa221f.jpg)
+
   
 </details>
