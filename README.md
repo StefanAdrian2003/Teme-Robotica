@@ -54,11 +54,9 @@
 </details>
 
 
-
-
-# **Tema 3: Quick Time**
-
-## **Descrierea task-ului**
+<details>
+  <summary>Tema 3: Quick Time</summary>
+  ## **Descrierea task-ului**
 În acest proiect, vom dezvolta un joc competitiv de reflexe pentru doi jucători, care vor concura pentru a obține cel mai mare punctaj. Jocul testează viteza de reacție și include mai multe runde. 
 
 - **Fiecare jucător:** are propriile LED-uri și butoane. LED-urile RGB indică culoarea activă, iar scopul este ca jucătorul să apese rapid butonul corespunzător culorii afișate.
@@ -141,3 +139,7 @@ Urmează să fie realizată o schemă electrică detaliată utilizând Fritzing 
 
 ## **Concluzii**
 Proiectul "Quick Time" este un joc de reflexe care testează viteza de reacție a jucătorilor și include multiple componente hardware pentru funcționalități interactive. Acesta reprezintă o oportunitate excelentă de a lucra cu comunicarea SPI între două plăci Arduino și de a integra mai multe module într-un singur sistem.
+
+
+  
+</details>
