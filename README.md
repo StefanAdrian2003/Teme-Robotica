@@ -54,9 +54,11 @@
 </details>
 
 
+
+
 <details>
   <summary>Tema 3: Quick Time</summary>
-  ## **Descrierea task-ului**
+  # Descrierea task-ului:
 În acest proiect, vom dezvolta un joc competitiv de reflexe pentru doi jucători, care vor concura pentru a obține cel mai mare punctaj. Jocul testează viteza de reacție și include mai multe runde. 
 
 - **Fiecare jucător:** are propriile LED-uri și butoane. LED-urile RGB indică culoarea activă, iar scopul este ca jucătorul să apese rapid butonul corespunzător culorii afișate.
