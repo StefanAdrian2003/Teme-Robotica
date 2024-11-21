@@ -58,6 +58,7 @@
 
 <details>
   <summary>Tema 3: Quick Time</summary>
+  
   # Descrierea task-ului:
 În acest proiect, vom dezvolta un joc competitiv de reflexe pentru doi jucători, care vor concura pentru a obține cel mai mare punctaj. Jocul testează viteza de reacție și include mai multe runde. 
 
